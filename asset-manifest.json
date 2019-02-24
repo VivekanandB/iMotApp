@@ -1,0 +1,16 @@
+{
+  "main.css": "/iMotApp/static/css/main.8c98d5ba.chunk.css",
+  "main.js": "/iMotApp/static/js/main.e840454a.chunk.js",
+  "main.js.map": "/iMotApp/static/js/main.e840454a.chunk.js.map",
+  "runtime~main.js": "/iMotApp/static/js/runtime~main.f2ad0711.js",
+  "runtime~main.js.map": "/iMotApp/static/js/runtime~main.f2ad0711.js.map",
+  "static/css/2.c66e895d.chunk.css": "/iMotApp/static/css/2.c66e895d.chunk.css",
+  "static/js/2.4ba74329.chunk.js": "/iMotApp/static/js/2.4ba74329.chunk.js",
+  "static/js/2.4ba74329.chunk.js.map": "/iMotApp/static/js/2.4ba74329.chunk.js.map",
+  "index.html": "/iMotApp/index.html",
+  "precache-manifest.fce7e02ca5549291f2b800b1b579e009.js": "/iMotApp/precache-manifest.fce7e02ca5549291f2b800b1b579e009.js",
+  "service-worker.js": "/iMotApp/service-worker.js",
+  "static/css/2.c66e895d.chunk.css.map": "/iMotApp/static/css/2.c66e895d.chunk.css.map",
+  "static/css/main.8c98d5ba.chunk.css.map": "/iMotApp/static/css/main.8c98d5ba.chunk.css.map",
+  "static/media/logo.jpg": "/iMotApp/static/media/logo.ec83f77b.jpg"
+}
